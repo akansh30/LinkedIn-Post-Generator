@@ -121,7 +121,7 @@ raw_posts.json ──▶ preprocess.py ──▶ processed_posts.json
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/linkedin-post-generator.git
+https://github.com/akansh30/LinkedIn-Post-Generator.git
 cd linkedin-post-generator
 
 pip install -r requirements.txt
