@@ -1,4 +1,4 @@
-# 🚀 LinkedIn Post Generator using LLMs
+# 🚀 LinkedIn Post Generator using Llama
 
 This project uses LLMs to analyze, enrich and generate professional-grade LinkedIn posts. It transforms raw post data into semantically rich content through intelligent tagging, emoji enhancement, and hashtag extraction. Users can easily generate new posts through an intuitive Streamlit interface.
 
